@@ -1,12 +1,12 @@
 # deutsche-bank-hackathon
-Bot Dependencies 
-Telebot
-  pip install telebot
-  from telebot_router import TeleBot
-chomadb
-  pip install chromadb
-  import chromadb
-ollama 
-  pip install ollama
-  import ollama
+Bot Dependencies <br>
+Telebot <br>
+pip install telebot <br>
+from telebot_router import TeleBot <br>
+chomadb <br>
+  pip install chromadb <br>
+  import chromadb <br>
+ollama <br>
+  pip install ollama <br>
+  import ollama <br>
 User should run main_chatgpt.py
