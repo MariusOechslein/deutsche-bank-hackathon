@@ -1,0 +1,237 @@
+# Eight types of budgeting processes and the pros and cons of
+each.
+
+
+## Budgeting is a critical component of financial planning and one of
+the cornerstones of any successful business strategy. Budgets arm
+decision-makers with a robust foundation of fiscal insights, enabling
+leaders to make informed choices, whether it is about launching a new
+product, entering a new market, or making crucial operational
+changes.
+
+By offering a tangible financial roadmap, budgeting facilitates
+proactive management, anticipating challenges and seizing
+opportunities. But is more than just allocating resources; it’s
+a strategic tool that, when used effectively, can propel a
+business to new heights.
+
+With various budgeting methods available, how can an
+organisation determine the most appropriate one for its unique
+needs?
+
+Here’s an overview of the 8 major budgeting types, the pros and
+cons of each as well as when to consider each method:
+
+### 1. Traditional/Incremental Budgeting: A method that builds on
+the previous period’s budget (usually by adding incremental
+changes) to set the new budget. Its predictability is its
+strength.
+
+  * Pros:
+
+ 1. Familiar and straightforward. It’s a tried and tested
+ process.
+ 2. Builds upon previous years’ budgets, making it relatively
+ easy to prepare.
+
+  * Cons:
+
+ 1. Can perpetuate inefficiencies from past budgets.
+ 2. May not adapt well to rapidly changing business or market
+ environments.
+
+When to Consider: If the business environment is stable, and
+the company prefers a tried-and-tested method.
+
+### 2. Zero-Based Budgeting (ZBB): A budgeting process where every
+expense must be justified for each new period, starting from a
+“zero base”. In this budget, every penny counts.
+
+  * Pros:
+
+ 1. Encourages scrutiny of all expenses, potentially revealing
+ inefficiencies.
+ 2. Aligns spending with organisational objectives.
+
+  * Cons:
+
+ 1. Time-consuming and resource intensive.
+ 2. Can be difficult to implement, especially in larger
+ organisations.
+
+When to Consider: When an organisation is looking for a
+comprehensive financial review or is in a phase of
+restructuring.
+
+### 3. Activity-Based Budgeting (ABB): A method that budgets based
+on the cost of activities required to produce a product or
+service, or with operational outputs.
+  * Pros:
+
+ 1. Helps in strategic resource allocation and prioritisation.
+ 2. Can provide a granular view of resource allocation.
+
+  * Cons:
+
+ 1. Can be complex and time-consuming, which can deter its
+ adoption.
+ 2. Requires detailed analysis and understanding of processes
+ and activities.
+
+When to Consider: Useful for businesses keen on aligning their
+financial plans with operational activities or deliverables.
+
+### 4. Value Proposition Budgeting: Budgeting that prioritises
+spending based on the expected return on investment (ROI) and
+value generation for the business.
+  * Pros:
+
+ 1. Focuses on activities that add value to the business.
+ 2. Prioritises spending based on the high return on investment
+ activities.
+
+  * Cons:
+
+ 1. Determining “value” can be subjective.
+ 2. Might overlook necessary functions that don’t have
+ immediate, tangible ROI.
+
+When to Consider: For businesses looking to align budgeting
+closely with strategic objectives and value generation.
+
+### 5. Rolling Forecasts (Continuous Budgeting): A dynamic or fluid
+budgeting approach that continuously updates by adding new
+periods (e.g., months or quarters) as the most recent period is
+completed.
+  * Pros:
+
+ 1. Offers more flexibility as well as strategic alignment.
+ 2. Allows businesses to rapidly adapt to changing conditions.
+
+  * Cons:
+
+ 1. Requires regular updates, which can be resource intensive.
+ 2. Might lead to short-term thinking.
+
+When to Consider: In rapidly changing business environments
+where a fixed, annual budget might quickly become obsolete.
+
+### 6. Project-Based Budgeting: Budgeting tailored to specific
+projects, detailing the income and expenses expected for each
+project. This approach is excellent for businesses running
+multiple projects simultaneously.
+
+  * Pros:
+
+ 1. Ensures project-specific financial alignment.
+ 2. Helps in allocating resources to individual projects
+ effectively.
+
+  * Cons:
+
+ 1. Not a holistic approach for the entire organisation.
+ 2. Needs constant updates as project requirements change.
+
+When to Consider: For businesses involved in numerous distinct
+projects, like construction firms or project-based tech
+companies.
+
+### 7. Participatory Budgeting (or Bottom-Up Budgeting): A
+budgeting process where individual departments or teams
+contribute to the budget’s development. This approach promotes
+consensus across the business.
+  * Pros:
+
+ 1. Engages different departments/teams, leading to more and
+ diverse insights.
+ 2. Increases ownership and commitment to the budget.
+
+  * Cons:
+
+ 1. Can be a prolonged, time-consuming process.
+ 2. Risks of inflated budget requests.
+
+When to Consider: When you want to boost internal engagement in
+the budgeting process and tap into the insights of different
+employees.
+
+### 8. Flexible Budgeting: A budget that adjusts based on actual
+levels of activity during a period, allowing for comparison
+with the budgeted performance.
+  * Pros:
+
+ 1. Adjusts based on actual operational levels and provides
+ real-time financial clarity.
+ 2. Helps in a direct comparison of actual vs. budgeted
+ performance.
+
+  * Cons:
+
+ 1. Requires more sophisticated financial systems.
+ 2. Might be more complex to prepare initially.
+
+When to Consider: For industries with varying operational
+levels or periodic demand changes, like seasonal businesses
+
+By understanding different budgeting methods, businesses can
+pick or combine approaches that align seamlessly with their
+objectives, ensuring not just fiscal discretion but also
+strategic clarity.
+
+## Five hybrid budgeting approaches to consider.
+
+As business conditions and strategies evolve, leaders may also
+reassess and adapt their budgeting methods to stay aligned with
+their objectives. The combination approach aims to leverage the
+strengths of multiple methods while mitigating their respective
+weaknesses. Some budgeting approaches naturally complement each
+other.
+
+Five examples of hybrid approaches to consider:
+
+### 1. Traditional/Incremental with Zero-Based Budgeting (ZBB):
+
+A hybrid approach could involve applying ZBB at specific
+intervals (e.g., every few years) while using incremental
+adjustments in the interim. This combines the thoroughness of
+ZBB with the efficiency of traditional budgeting.
+
+### 2. Rolling Forecasts with Traditional/Incremental Budgeting:
+
+Companies might use traditional budgeting for the start of the
+year but employ rolling forecasts to adjust projections as the
+year progresses and new data becomes available.
+
+### 3. Participatory Budgeting with ZBB or ABB:
+
+Engaging various departments in the budgeting process
+(Participatory) can be combined with either ZBB or ABB. This
+ensures that while every expense is justified (ZBB) or
+activities are evaluated (ABB), the insights and needs of
+individual departments are also considered.
+
+### 4. Flexible Budgeting with Rolling Forecasts:
+
+A flexible budget adjusts for variances in activity levels,
+while rolling forecasts continually update. Combining the two
+can offer a dynamic and adaptive budgeting model that reflects
+actual business performance and evolving projections.
+
+### 5. Project-Based Budgeting with ZBB or Rolling Forecasts:
+
+For companies involved in multiple projects, they might apply
+ZBB for each new project to justify all costs. Alternatively,
+for long-term projects, rolling forecasts can be used to update
+the budget based on the project’s progress and changing
+conditions.
+
+The decision to combine budgeting methods should be driven by a
+company’s strategic objectives, operational intricacies, and
+the challenges they face in their budgeting process. By
+blending approaches, businesses can create a tailored budgeting
+system that aligns with their unique environment and goals.
+
+link: https://bedfordconsulting.com/eight-types-of-budgeting-processes-and-the-pros-and-cons-of-each/
+
+
+
