@@ -1,4 +1,4 @@
-# Deutsche Bank Hackathon
+# Winning the Deutsche Bank Hackathon
 
 This is the repo for the Deutsche Bank Hackathon in collaboration with THWS Master AI in Würzburg.
 Also Nebius AI was kind enough to sponsor V100 GPUs for the day.
